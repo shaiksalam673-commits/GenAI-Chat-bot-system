@@ -69,6 +69,9 @@ streamlit run app.py
 **Example 2:** Follow-up Response  
 ![Career Advisor Chatbot Screenshot 2](./screenshots/Screenshot%20From%202026-02-18%2009-58-35.png)
 
+## You Can Try here:
+https://genai-chat-bot-system-8pgjsktceyknxzjcdvh8t5.streamlit.app/
+
 ### 🧑‍💻 Author
 
 #### Salam Shaik
