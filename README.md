@@ -69,8 +69,10 @@ streamlit run app.py
 **Example 2:** Follow-up Response  
 ![Career Advisor Chatbot Screenshot 2](./screenshots/Screenshot%20From%202026-02-18%2009-58-35.png)
 
-## You Can Try here:
-![link](https://k9kcslvx9gytpqfamick53.streamlit.app/)
+## 🚀 Try the App
+Click below to explore the live demo 👇  
+🔗 [**Open Career Advisor Chatbot**](https://k9kcslvx9gytpqfamick53.streamlit.app/)
+
 ### 🧑‍💻 Author
 
 #### Salam Shaik
