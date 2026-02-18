@@ -70,8 +70,7 @@ streamlit run app.py
 ![Career Advisor Chatbot Screenshot 2](./screenshots/Screenshot%20From%202026-02-18%2009-58-35.png)
 
 ## You Can Try here:
-https://genai-chat-bot-system-8pgjsktceyknxzjcdvh8t5.streamlit.app/
-
+![chat bot](https://k9kcslvx9gytpqfamick53.streamlit.app/)
 ### 🧑‍💻 Author
 
 #### Salam Shaik
