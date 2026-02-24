@@ -39,7 +39,7 @@ Career-Advisor-Chatbot/
 ### ⚙️ Setup Instructions
 1.Clone the repository
 ```
-git clone https://github.com/yourusername/Career-Advisor-Chatbot.git
+git clone https://github.com/shaiksalam673-commits/Career-Advisor-Chatbot.git
 cd Career-Advisor-Chatbot
 ```
 2.Create a virtual environment (optional but recommended)
